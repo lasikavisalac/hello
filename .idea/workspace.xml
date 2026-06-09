@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d32ecb02-aa92-4502-95e2-23b0929621ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello/src/day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/day42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -73,6 +76,7 @@
       <workItem from="1780894493165" duration="4179000" />
       <workItem from="1780905311195" duration="728000" />
       <workItem from="1780906048702" duration="6450000" />
+      <workItem from="1780977956809" duration="5543000" />
     </task>
     <servers />
   </component>
