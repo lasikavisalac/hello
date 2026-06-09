@@ -1,0 +1,23 @@
+void main(){
+     System.out.println(add(8,8));
+     System.out.println(subtract(6,9));
+     System.out.println(multiplication(3,8));
+     System.out.println(division(3,7));
+     System.out.println(modules(5,8));
+}
+ public int add (int a, int b){
+    return a+b;
+
+ }
+ public int subtract(int a,int b){
+    return a-b;
+ }
+ public int multiplication(int a, int b){
+    return a*b;
+ }
+public int  division(int a,int b){
+    return a/b;
+}
+public int modules(int a,int b ){
+    return a%b;
+}
