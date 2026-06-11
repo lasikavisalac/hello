@@ -10,10 +10,10 @@ void main(){
         System.out.println("Student "+( row+1)+":");
         for(int col = 0; col < attendence[row].length; col++) {
             if (attendence[row][col]==1){
-                System.out.println("Class"+(col+1)+": Present");
+                System.out.println("Class :"+(col+1)+": Present");
             }
             else{
-                System.out.println("Class"+(col+1)+": Absent");
+                System.out.println("Class : "+(col+1)+": Absent");
             }
         }
         System.out.println();
