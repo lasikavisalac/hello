@@ -1,3 +1,6 @@
+
+
+
 void main() {
     //int[] marks = int[5];
     int[][] marks = new int[5][3];
