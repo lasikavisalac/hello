@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d32ecb02-aa92-4502-95e2-23b0929621ad" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/day14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_f.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/student.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day8_exe.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day102.java" afterDir="false" />
@@ -139,7 +140,7 @@
       <workItem from="1781864107551" duration="339000" />
       <workItem from="1781864455937" duration="1115000" />
       <workItem from="1782100967987" duration="2088000" />
-      <workItem from="1782106290805" duration="2537000" />
+      <workItem from="1782106290805" duration="5827000" />
     </task>
     <task id="LOCAL-00001">
       <option name="closed" value="true" />
