@@ -1,4 +1,4 @@
- class day14 {
+ class  day14 {
      static class Student {
          String name;
          int age;

@@ -14,7 +14,9 @@ public class day14_Factory {
 
         @Override
         public void send(String to, String message) {
-            System.out.println("Sending Instagram: "+message +", to "+to);
+            System.out.println("Sending Instagram: "+message);
+            System.out.println(" to :"+ to);
+
         }
     }
 
@@ -29,6 +31,6 @@ public class day14_Factory {
     static void main() {
         day14_Factory factory = new day14_Factory();
         String type = "Instagram";
-        getNotification(factory, type).send("00000000000","I'm lasikaa");
+        getNotification(factory, type).send ("00000000000","I'm lasikaa");
     }
 }
