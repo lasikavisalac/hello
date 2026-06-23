@@ -13,6 +13,6 @@ public class day15 {
         };
         Thread chefThread = new Thread(chefTask, "chef_thread");
         chefThread.start();
-        chefThread.join();
+        --
     }
 }
